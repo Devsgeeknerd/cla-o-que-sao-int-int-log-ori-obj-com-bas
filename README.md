@@ -3,6 +3,15 @@
 
 ***Conteúdo da Aula:***
 
+* **Domínio:**
+  * exemplo.com.br — Ele direciona para um servidor de hospedagem em particular.
+
+&nbsp;
+
+* **Subdomínio:**
+  * meu-site.exemplo.com.br — Ele redireciona para um local especifico no servidor de hospedagem.
+  * O que vem depois do subdomínio e o nome do site.
+
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
 

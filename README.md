@@ -11,7 +11,7 @@
   * O que vem depois do subdomínio e o nome do site.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- * [Vista por cima](#vista-por-cima) -->
 <!--  * [Foto da tela](#foto-da-tela) -->

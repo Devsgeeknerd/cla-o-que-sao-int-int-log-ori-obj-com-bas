@@ -1,7 +1,7 @@
 <!-- TITLE -->
 # Como Funciona um Site
 
-<!-- ***Conteúdo:*** -->
+***Conteúdo da Aula:***
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
